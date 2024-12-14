@@ -1,0 +1,59 @@
+.about__contant {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 26.42vw;
+}
+
+.about__contant-up {
+
+    display: flex;
+    width: 65.24%;
+    justify-content: space-between;
+    margin-top: 1.08vw;
+}
+
+.about__contant-text {
+
+    width: 46.47%;
+}
+
+.about__contant-text div {
+
+    font-size: 0.7vw;
+    font-weight: 400;
+    line-height: 0.81vw;
+    margin-bottom: 2.15vw;
+}
+
+.about__contant-text div a {
+
+    text-decoration: underline;
+}
+
+.about__contant-text p {
+
+    font-size: 2.26vw;
+    line-height: 2.7vw;
+    font-weight: 600;
+    margin-bottom: 1.29vw;
+}
+
+.about__contant-text ul {
+
+    display: flex;
+    flex-direction: column;
+    font-family: 'Gilroy-Light', sans-serif;
+    font-size: 0.86vw;
+    font-weight: 400;
+    line-height: 1.34vw;
+    list-style: none;
+    gap: 0.86vw;
+}
+
+.about__contant-up img {
+
+    height: 24.7vw;
+}
+

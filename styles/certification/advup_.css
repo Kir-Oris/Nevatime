@@ -1,0 +1,77 @@
+.adv-certificat-up {
+
+    padding: 4.25vw 19.39vw 4.5vw 22.13vw;
+    background: #F7F7F7;
+    height: 25.66vw;
+}
+
+.adv-certification-up {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.adv-up-content {
+
+    display: flex;
+    padding-top: 2.85vw;
+    padding-bottom: 4.5vw;
+}
+
+.adv-title-up {
+
+    font-size: 2.26vw;
+    font-weight: 600;
+    line-height: 2.7vw;
+}
+
+.adv__icon-up {
+
+    display: flex;
+    width: 3.77vw;
+    height: 3.77vw;
+    align-items: center;
+    justify-content: center;
+    background: #CDB494;
+    border-radius: 50%;
+    font-size: 1.72vw;
+    font-weight: 600;
+    line-height: 2.89vw;
+    color: #FFFFFF;
+    margin-bottom: 0.87vw;
+    flex: none;
+
+}
+
+.adv-up-content1,
+.adv-up-content2,
+.adv-up-content3 {
+
+    width: 14.97vw;
+    height: 7.33vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    .text-up {
+       
+        font-size: 0.81vw;
+        font-weight: 400;
+        line-height: 1.36vw;
+    }
+}
+
+.adv-up-content2 {
+
+    width: 20.46vw;
+    height: 10.03vw;
+    margin-left: 4.36vw;
+    margin-right: 1.62vw;
+}
+
+.adv-up-content3 {
+
+    width: 20.46vw;
+    height: 11.37vw;
+}

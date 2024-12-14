@@ -1,0 +1,89 @@
+.header {
+
+    display: flex;
+    flex-direction: column;
+    margin-top: 1.939vw;
+}
+
+.header__top {
+
+    display: flex;
+    width: 61.228vw;
+    margin: 0 auto;
+    justify-content: space-between;
+    margin-bottom: 1.28vw;
+}
+
+
+.header__left a {
+
+    display: flex;
+    width: 100%;
+    height: 100%;
+    padding: 0.269vw;
+    gap: 0.54vw;
+}
+
+.img-cart {
+
+    height: 1.723vw;
+}
+
+.cart {
+
+    font-size: 0.754vw;
+    font-family: 400;
+    line-height: 0.875vw;
+}
+
+.number-in-cart {
+
+    font-size: 0.754vw;
+    font-weight: 400;
+    line-height: 0.874vw;
+}
+
+.sum-cost {
+
+    font-size: 0.86vw;
+    font-weight: 700;
+    line-height: 1.04vw;
+}
+
+.header__logo {
+
+    text-align: center;
+    width: 14.11vw;
+    font-size: 0.81vw;
+    line-height: 0.94vw;
+    font-weight: 400;
+}
+
+.header__logo img {
+
+    height: 2.32vw;
+}
+
+.header__right {
+
+    display: block;
+    width: 10.23vw;
+    text-align: end;
+}
+
+.header__right span {
+
+    font-size: 1.29vw;
+    font-weight: 600;
+    line-height: 1.54vw;
+    margin-right: 0;
+}
+
+.header__right a {
+
+    font-size: 0.86vw;
+    font-weight: 400;
+    line-height: 0.94vw;
+    color: #CDB494;
+    text-decoration: underline;
+}

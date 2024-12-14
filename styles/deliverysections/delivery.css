@@ -1,0 +1,128 @@
+.delivery__contant {
+
+    height: 54.48vw;
+}
+
+.delivery__contant-txt {
+
+    position: relative;
+    width: 62.42vw;
+    margin-top: 1.08vw;
+    margin-left: 19.39vw;
+    display: flex;
+    width: 28vw;
+    height: 20.72vw;
+    margin-bottom: 1.24vw;
+}
+
+.delivery__contant-txt div div {
+
+    font-size: 0.7vw;
+    font-weight: 400;
+    line-height: 0.81vw;
+    margin-bottom: 2.15vw;
+}
+
+.delivery__contant div div a {
+
+    text-decoration: underline;
+}
+
+.delivery__contant-txt div p {
+
+    font-size: 2.26vw;
+    font-weight: 600;
+    line-height: 2.7vw;
+    margin-bottom: 1.29vw;
+}
+
+.delivery__contant-txt ul {
+
+    display: flex;
+    flex-direction: column;
+    font-size: 0.86vw;
+    font-weight: 400;
+    line-height: 1.34vw;
+    gap: 0.81vw;
+}
+
+.delivery__contant-txt img {
+
+    height: 18.49vw;
+    position: absolute;
+    left: 27.52vw;
+    top: 2.23vw;
+}
+
+.delivery__contant-adv {
+
+    width: 64.62%;
+    height: 29.08vw;
+    margin: 0 auto;
+    background: #F7F7F7;
+    padding: 1.18vw;
+}
+
+.delivery__contant-adv div {
+
+    display: flex;
+    flex-direction: column;
+    background: white;
+    padding: 2.32vw 2.58vw;
+    height: 26.71vw;
+
+}
+
+.delivery__contant-adv div span {
+
+    font-size: 1.72vw;
+    line-height: 2.06vw;
+    font-weight: 600;
+}
+
+.delivery__contant-adv div div {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 1.94vw 0;
+    width: 50.94vw;
+}
+
+.delivery__contant-adv div ul {
+
+    display: flex;
+    flex-direction: column;
+    gap: 1.35vw;
+    font-size: 0.92vw;
+    line-height: 1.1vw;
+    font-weight: 400;
+}
+
+.delivery__contant-adv div ul li {
+    list-style: none; 
+    position: relative; 
+    padding-left: 1.5vw;
+}
+
+.delivery__contant-adv div ul li::before {
+    content: '';
+    display: inline-block;
+    width: 1.08vw;
+    height: 1.08vw;
+    background-image: url(./../../images/pin21.png); 
+    background-size: cover; 
+    position: absolute; 
+    left: 0; 
+    top: 0; 
+}
+
+.delivery__contant-adv p {
+
+    font-size: 0.97vw;
+    line-height: 1.16vw;
+    font-weight: 600;
+}
+
+
+

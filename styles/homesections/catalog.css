@@ -1,0 +1,106 @@
+.catalog {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 107.49vw;
+}
+
+.catalog__contant {
+
+    display: flex;
+    flex-direction: column;
+    width: 61.23%;
+    height: 89.96%;
+}
+
+.catalog__contant img {
+
+    width: 42.54vw;
+}
+
+.catalog__contant button {
+
+    height: 2.58vw;
+    width: 9.75vw;
+    margin-top: 1.25vw;
+    background: rgba(0, 0, 0, 0.0);
+    font-size: 0.81vw;
+    line-height: 0.96vw;
+    text-transform: uppercase;
+    cursor: pointer;
+    border: 1px solid;
+}
+
+.catalog__contant-part1 {
+
+    display: flex;
+    margin-bottom: 5.39vw;    
+
+}
+
+.catalog__contant-part1 div {
+
+    display: flex;
+    flex-direction: column;
+    width: 34.17%;
+    margin-left: 4.83%;
+    justify-content: center;
+    font-size: 2.26vw;
+    line-height: 2.7vw;
+    font-weight: 600;
+}
+
+.catalog__contant-part2 {
+
+    display: flex;
+    margin-bottom: 5.39vw;
+}
+
+.catalog__contant-part2 div{
+
+    display: flex;
+    flex-direction: column;
+    width: 34.17%;
+    justify-content: center;
+    font-size: 2.26vw;
+    line-height: 2.7vw;
+    font-weight: 600;
+
+}
+
+.catalog__contant-part3 {
+
+    display: flex;
+    margin-bottom: 5.39vw;
+
+}
+
+.catalog__contant-part3 div{
+
+    display: flex;
+    flex-direction: column;
+    width: 34.17%;
+    margin-left: 4.83%;
+    justify-content: center;
+    font-size: 2.26vw;
+    line-height: 2.7vw;
+    font-weight: 600;
+
+}
+
+.catalog__contant-part4 {
+
+    display: flex;
+}
+
+.catalog__contant-part4 div {
+
+    display: flex;
+    flex-direction: column;
+    width: 34.17%;
+    justify-content: center;
+    font-size: 2.26vw;
+    line-height: 2.7vw;
+    font-weight: 600;
+}

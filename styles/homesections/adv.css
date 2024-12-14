@@ -1,0 +1,135 @@
+.adv {
+
+    display: flex;
+    margin: 0 auto;
+    background: #F7F7F7;
+}
+
+.adv__contant {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 61.23%;
+    margin: 4.25vw auto 5.11vw auto;
+
+}
+
+.adv__icon {
+
+    display: flex;
+    height: 3.77vw;
+    width: 3.77vw;
+    background: #CDB494;
+    border-radius: 50%;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 1.5vw;
+}
+
+.adv__icon img {
+
+    height: 1.94vw;
+}
+
+.adv__up {
+
+    font-size: 2.26vw;
+    font-weight: 600;
+    line-height: 2.7vw;
+    text-align: center;
+}
+
+.adv__middle {
+
+    display: flex;
+    width: 100%;
+    margin-top: 2.31vw;
+    justify-content: space-between;
+}
+
+.adv__middle div {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    width: 31.67%;
+}
+
+.adv__middle div div {
+
+    width: 3.77vw;
+}
+
+.adv__middle div p {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+    margin-bottom: 0.82vw;
+    font-size: 0.97vw;
+    line-height: 1.35vw;
+    font-weight: 600;
+}
+
+.adv__middle div span {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+    font-size: 0.81vw;
+    line-height: 1.36vw;
+    font-weight: 700;
+}
+
+.adv__down {
+
+    display: flex;
+    margin-top: 3.39vw;
+    width: 69.48%;
+    justify-content: space-between;
+}
+
+.adv__down div {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 48.1%;
+    justify-content: center;
+}
+
+.adv__down div p {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+    margin-bottom: 0.82vw;
+    font-size: 0.97vw;
+    line-height: 1.35vw;
+    font-weight: 600;
+}
+
+.adv__down div span {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+    font-size: 0.81vw;
+    line-height: 1.36vw;
+    font-weight: 700;
+}
+
+.adv__down div div {
+
+    width: 3.77vw;
+}

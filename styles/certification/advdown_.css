@@ -1,0 +1,56 @@
+.adv-certificat-down {
+
+    padding: 4.25vw 22.13vw 5.17vw 22.13vw;
+}
+
+.adv-certification-down {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.adv-title-down {
+
+    font-size: 2.26vw;
+    line-height: 2.7vw;
+    font-weight: 600;
+    margin-bottom: 2.47vw;
+}
+
+.adv-down-content {
+
+    display: flex;
+}
+
+.adv-down-content img {
+
+    height: 3.45vw;
+    margin-bottom: 1.51vw;
+}
+
+.adv__icon-down {
+
+    display: flex;
+    justify-content: center;
+}
+
+.adv-down1,
+.adv-down3 {
+
+    width: 14.97vw;
+    font-size: 0.97vw;
+    font-weight: 600;
+    line-height: 1.35vw;
+    text-align: center;
+}
+
+.adv-down2 {
+
+    width: 22vw;
+    font-size: 0.97vw;
+    font-weight: 600;
+    line-height: 1.35vw;
+    margin: 0 4.36vw;
+    text-align: center;
+}

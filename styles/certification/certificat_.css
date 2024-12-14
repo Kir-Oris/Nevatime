@@ -1,0 +1,44 @@
+.certificat {
+
+    height: 25.16vw;
+    padding: 0.56vw 23.99vw 2.13vw 19.39vw;
+}
+
+.certification {
+
+    display: flex;
+    justify-content: space-between;
+}
+
+.certificat-text {
+
+    width: 27.63vw;
+}
+
+.certificat-text-title {
+
+    font-size: 0.7vw;
+    font-weight: 400;
+    line-height: 0.81vw;
+    margin-bottom: 6.41vw;
+}
+
+.certificat-text p:first-of-type {
+
+    font-weight: 600;
+    font-size: 2.26vw;
+    line-height: 2.7vw;
+    margin-bottom: 0.81vw;
+}
+
+.certificat-text p:last-of-type {
+
+    font-weight: 400;
+    font-size: 0.86vw;
+    line-height: 1.34vw;
+}
+
+.certification img {
+
+    height: 22.47vw;
+}

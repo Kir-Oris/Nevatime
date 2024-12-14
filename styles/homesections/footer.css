@@ -1,0 +1,139 @@
+.footer {
+
+    display: flex;
+    background-color: black;
+    height: 20.46vw;
+    color: white;
+    padding: 0 19.39vw;
+    justify-content: space-between;
+}
+
+.footer__part1 {
+
+    display: inherit;
+    flex-direction: column;
+    margin-top: 4.04vw;
+}
+
+.footer__part1 span {
+
+    font-size: 0.81vw;
+    font-weight: 600;
+    line-height: 1vw;
+    margin-bottom: 2.05vw;
+}
+
+.footer__part1 p {
+
+    font-size: 0.97vw;
+    font-weight: 500;
+    line-height: 1.16vw;
+    margin-bottom: 0.81vw;
+}
+
+.footer__part1 img {
+
+    filter: invert(1) brightness(2);
+    width: 11.04vw;
+}
+
+.footer__part1 div {
+
+    display: flex;
+}
+
+.footer__part1 div input {
+
+    width: 9.91vw;
+    height: 2.58vw;
+    border: none;
+    background: #F7F7F7;
+    font-family: 'Gilroy-Light', sans-serif;;
+    color: .989898;
+    font-size: 0.81vw;
+    line-height: 1vw;
+    font-weight: 700;
+    padding: 0.81vw 1.48vw;
+}
+
+.footer__part1 div input:focus {
+
+    outline:none;
+}
+
+.footer__part1 div button {
+
+    padding: 0.81vw 1.94vw;
+    font-size: 0.81vw;
+    font-weight: 500;
+    color: white;
+    background: #CDB494;
+    border: none;
+    cursor: pointer;
+}
+
+.footer__part2 {
+
+    display: flex;
+    margin-top: 4.04vw;
+    gap: 3.31vw;
+}
+
+.footer__part2 ul {
+
+    display: flex;
+    flex-direction: column;
+    gap: 1.35em;
+    font-size: 0.81vw;
+    font-weight: 400;
+    list-style: none;
+    line-height: 0.94vw;
+    text-decoration: underline;
+}
+
+.footer__part3 {
+
+    margin-top: 4.94vw;
+}
+
+.footer__part3 div {
+
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    text-align: end;
+    margin-bottom: 5.32vw;
+}
+
+.footer__part3 div a {
+       
+    font-size: 0.86vw;
+    line-height: 1vw;
+    text-decoration: underline;
+    
+    color: #CDB494;
+}
+
+.footer__part3 div span {
+
+    color: white;
+    font-size: 1.29vw;
+    line-height: 1.54vw;
+    font-weight: 600;
+}
+
+.footer__part3 span {
+
+    display: flex;
+    justify-content: end;
+    gap: 0.54vw;
+
+}
+
+.footer__part3 span img {
+
+    height: 1.83vw;
+}
+
+
+

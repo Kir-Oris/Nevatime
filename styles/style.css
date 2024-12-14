@@ -1,0 +1,42 @@
+@import url("homesections/header.css");
+@import url("homesections/banner.css");
+@import url("homesections/catalog.css");
+@import url("homesections/adv.css");
+@import url("homesections/form.css");
+@import url("homesections/footer.css");
+@import url("deliverysections/delivery.css");
+@import url("aboutsections/about.css");
+@import url("catalogsections/catalog.css");
+@import url("homesections/nav.css");
+@import url("aboutsections/form.css");
+@import url("aboutsections/contactinfo.css");
+@import url("aboutsections/marken.css");
+@import url("certification/advdown_.css");
+@import url("certification/advup_.css");
+@import url("certification/certificat_.css");
+
+@font-face {
+    font-family: 'Gilroy-Light';
+    src: url('fonts/Gilroy-Light.otf') format('opentype');
+}
+
+* {
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+body {
+
+    max-width: 100%;
+    margin: 0;
+    font-family: 'Gilroy-Light', sans-serif;
+}
+  
+a {
+
+    text-decoration: none;
+    color: inherit;
+}

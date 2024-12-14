@@ -1,0 +1,38 @@
+.about__contant-down {
+
+    display: flex;
+    flex-direction: column;
+    height: 13.3vw;
+    align-items: center;
+    padding-left: 19.39vw;
+    padding-right: 19.39vw;
+}
+
+.about__contant-down p {
+
+    font-size: 2.26vw;
+    line-height: 2.7vw;
+    font-weight: 600;
+    margin-bottom: 2.05vw;
+}
+
+.about__contant-marken {
+
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.about__contant-marken div {
+
+    display: flex;
+    width: 31.67%;
+    justify-content: center;
+    align-items: center;
+}
+
+.about__contant-marken div img { 
+
+    height: 8.56vw;
+    width: 20.46vw;
+}
